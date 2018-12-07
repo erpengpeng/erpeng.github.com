@@ -1,15 +1,101 @@
-## Hello 大表哥
+## Hello 大表哥-三次装逼，两次失败，一次成功
 
-You can use the [editor on GitHub](https://github.com/erpengpeng/erpeng.github.com/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+世人皆说我傻 我只是念旧 
+可能是时光让耳朵变得宽容
+可能是孤独让情绪变得脆弱
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 绝代风华
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+声声丽曲敲寒玉，句句妍辞缀色丝
 
 ```markdown
 Syntax highlighted code block
+
+林间伞下
+
+你与我执手信步伞下
+
+竹上隐客惊起了雀鸦
+
+速决高下 挥剑一刹那
+
+ 
+
+入鞘还家
+
+你莞尔沏来春涧草茶
+
+子落楸枰 雨落鸳鸯瓦
+
+经年相伴 心饴不化
+
+ 
+
+曾经年少鲜衣怒马
+
+寒沙里征战与杀伐
+
+玉帐外传来了胡笳
+
+如你驻扎 取我牵挂
+
+我心里那一座天下
+
+你坐镇笑靥如桃花
+
+世间当真有两全法
+
+江山深处抚你风华
+
+ 
+
+入鞘还家
+
+你莞尔沏来春涧草茶
+
+子落楸枰 雨落鸳鸯瓦
+
+经年相伴 心饴不化
+
+ 
+
+曾经年少鲜衣怒马
+
+寒沙里征战与杀伐
+
+玉帐外传来了胡笳
+
+如你驻扎 取我牵挂
+
+我心里那一座天下
+
+你坐镇笑靥如桃花
+
+世间当真有两全法
+
+江山深处抚你风华
+
+曾经年少鲜衣怒马
+
+寒沙里征战与杀伐
+
+玉帐外传来了胡笳
+
+如你驻扎 取我牵挂
+
+我心里那一座天下
+
+你坐镇笑靥如桃花
+
+世间当真有两全法
+
+江山深处抚你风华
+
+世间当真有两全法
+
+江山深处抚你风华
+
+
 
 # Header 1
 ## Header 2
@@ -28,10 +114,13 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### 许嵩若饮唐时酒，唐诗何止三百首
+    你若归来，我便携春涧草茶，话你风云叱咤，夺你余生温雅。 你若不归，我便溯江河之源，亮你一方星宿，赏你绝代风华
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/erpengpeng/erpeng.github.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### 江山如忆久不见， 扣剑锁琴卸鞍还
+    你若归来，我便携春涧草茶，话你风云叱咤，夺你余生温雅。 你若不归，我便溯江河之源，亮你一方星宿，赏你绝代风华。
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+
+
