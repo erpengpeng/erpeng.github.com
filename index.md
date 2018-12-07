@@ -9,7 +9,6 @@
 声声丽曲敲寒玉，句句妍辞缀色丝
 
 ```markdown
-Syntax highlighted code block
 
 林间伞下
 
@@ -97,29 +96,12 @@ Syntax highlighted code block
 
 
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
 ### 许嵩若饮唐时酒，唐诗何止三百首
     你若归来，我便携春涧草茶，话你风云叱咤，夺你余生温雅。 你若不归，我便溯江河之源，亮你一方星宿，赏你绝代风华
 
 
 ### 江山如忆久不见， 扣剑锁琴卸鞍还
-    你若归来，我便携春涧草茶，话你风云叱咤，夺你余生温雅。 你若不归，我便溯江河之源，亮你一方星宿，赏你绝代风华。
+    曾经年少鲜衣怒马 寒沙里征战与杀伐 玉帐外传来了胡笳 如你驻扎 取我牵挂 我心里那一座天下 你坐镇笑靥如桃花 世间当真有两全法 江山深处抚你风华
 
 
 
